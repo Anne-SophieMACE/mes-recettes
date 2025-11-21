@@ -4,7 +4,7 @@ description: "Une recette simple et rapide pour des crêpes moelleuses."
 auteur: "Anne-Sophie MACE"
 date: 2025-10-06
 image: crepes.jpeg
-temps_de_préparation: "10 min"
+temps_de_préparation: "30 min"
 temps_de_cuisson: "15 min"
 temps_de_repos: ""
 difficulté: "Facile"
